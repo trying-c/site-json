@@ -6,5 +6,30 @@
       "key": "key-1",
       "tags": ["心情"]
     }
+  ],
+  "gallery": [
+    {
+      "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "alt": "自然风景壁纸",
+      "title": "山脉湖泊高清壁纸"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1496568816309-51d7c20e3b21",
+      "alt": "城市夜景壁纸"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1532274402911-5a369e4c4bb5",
+      "alt": "抽象艺术壁纸",
+      "title": "彩色几何图形壁纸"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "alt": "海滩日落壁纸"
+    },
+    {
+      "url": "https://images.pexels.com/photos/206359/pexels-photo-206359.jpeg",
+      "alt": "雪山极光壁纸",
+      "title": "极光星空雪山壁纸"
+    }
   ]
 }
